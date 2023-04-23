@@ -1,0 +1,11 @@
+declare module "@editorjs/list";
+declare module "@editorjs/paragraph";
+declare module "@editorjs/image";
+declare module "editorjs-header-with-alignment";
+declare module "@editorjs/checklist";
+declare module "@editorjs/underline";
+declare module "editorjs-change-case";
+declare module "editorjs-tooltip";
+declare module "editorjs-text-color-plugin";
+declare module "@sotaproject/strikethrough";
+declare module "editorjs-text-alignment-blocktune";

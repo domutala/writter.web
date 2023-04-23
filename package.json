@@ -1,0 +1,33 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@types/editorjs__header": "^2.6.0",
+    "@types/node": "^18",
+    "nuxt": "^3.4.2",
+    "sass": "^1.62.0",
+    "sass-loader": "^13.2.2"
+  },
+  "dependencies": {
+    "@editorjs/checklist": "^1.5.0",
+    "@editorjs/editorjs": "^2.26.5",
+    "@editorjs/header": "^2.7.0",
+    "@editorjs/image": "^2.8.1",
+    "@editorjs/list": "^1.8.0",
+    "@editorjs/paragraph": "^2.9.0",
+    "@editorjs/underline": "^1.1.0",
+    "@sotaproject/strikethrough": "^1.0.1",
+    "editorjs-change-case": "^0.0.3",
+    "editorjs-header-with-alignment": "^1.0.1",
+    "editorjs-text-alignment-blocktune": "^1.0.3",
+    "editorjs-text-color-plugin": "^2.0.2",
+    "editorjs-tooltip": "^1.1.15"
+  }
+}
