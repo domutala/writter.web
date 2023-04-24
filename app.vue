@@ -62,10 +62,13 @@ function onOptions(index: number, value: { action: string; params: any }) {
       />
     </div>
 
-    <div class="w-block">
+    <div
+      class="w-block"
+      style="margin-top: 50px"
+    >
       <div class="w-block-options allways-show">
         <div class="w-block-options-section">
-          <button class="not-opacity">
+          <button>
             <svg
               xmlns="http://www.w3.org/2000/svg"
               version="1.1"
